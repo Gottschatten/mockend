@@ -1,6 +1,6 @@
 {
     "User": {
       "name": { "string": {} },
-      "age": { "number": {}}
+      "age": { "string": {}}
     }
   }
